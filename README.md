@@ -10,7 +10,7 @@ This project simulates a real-world e-commerce A/B testing scenario, aiming to o
 
 ### Final Technical Architecture Diagram
 
-*<img width="886" height="622" alt="flow" src="https://github.com/user-attachments/assets/4bf3d3bb-bd51-4548-ab49-11c8e214d7f9" />*
+*<img width="886" height="622" alt="flow drawio" src="https://github.com/user-attachments/assets/a32ff674-4cc9-4e10-96b7-2c69a66b4038" />*
 
 ### Technology Stack
 
